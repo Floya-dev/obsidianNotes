@@ -18,3 +18,7 @@ T = perioda kmitu, meri se v sekundach
 	- pocet kmitu za sekundu
 ten vrsek te sinusoidi je A = amplituda
 i = okamzita hodnota
+
+efektivni hodnota stidaveho proudu
+I = I (max) / odmocnina ze 2 = 0,707 x (max)
+efektivni hodnota stridaveho proudu je hodnota stejnosmerneneho proudu ktery by zpusobil stejne tepelne ucinky jako prislusny stridavy proud
