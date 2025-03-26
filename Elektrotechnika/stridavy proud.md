@@ -22,3 +22,7 @@ i = okamzita hodnota
 efektivni hodnota stidaveho proudu
 I = I (max) / odmocnina ze 2 = 0,707 x (max)
 efektivni hodnota stridaveho proudu je hodnota stejnosmerneneho proudu ktery by zpusobil stejne tepelne ucinky jako prislusny stridavy proud
+
+cos = A/C
+sin = B/C
+tan = B/A
