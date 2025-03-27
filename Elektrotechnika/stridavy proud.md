@@ -26,3 +26,10 @@ efektivni hodnota stridaveho proudu je hodnota stejnosmerneneho proudu ktery by 
 cos = A/C
 sin = B/C
 tan = B/A
+
+f = 1/t (hz)
+
+efetivni hodnota v zasuvce = 230V, ale maximalni je 320V. vsechny merice meri efektivni hodnotu, protoze to je jakoby ta nejcastejsi kterou z toho dostanes.
+
+osceloskop = zmeri ti celou tu sinusovku stridaveho proudu, takze i max a min
+![[Pasted image 20250327115738.png]]
