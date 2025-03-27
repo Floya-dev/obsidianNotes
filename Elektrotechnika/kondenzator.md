@@ -9,3 +9,5 @@ e0 - permitivita vakua = 8.85 krat 10 na -12 F/m
 eR - relativni permitivita = najdes v tabulkach
 
 ![[Pasted image 20250327121028.png]]
+
+![[Pasted image 20250327121331.png]]
