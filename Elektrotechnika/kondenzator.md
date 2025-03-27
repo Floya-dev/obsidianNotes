@@ -11,3 +11,10 @@ eR - relativni permitivita = najdes v tabulkach
 ![[Pasted image 20250327121028.png]]
 
 ![[Pasted image 20250327121331.png]]
+
+![[Pasted image 20250327125422.png]]
+po vypnuti elektriny zustane polarizovan, pro depolarizaci musim kondenzator vyskratovat
+
+po polarizaci/nabiti kondenzatoru jiz stejnosmerny proud neprochazi, ale stridavy jo
+
+tau = R krat C = casova konstanta = za priblizne 5 casovich konstant se kondenzator nabije na svoji max kapacitu
