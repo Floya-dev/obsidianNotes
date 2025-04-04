@@ -18,3 +18,13 @@ po vypnuti elektriny zustane polarizovan, pro depolarizaci musim kondenzator vys
 po polarizaci/nabiti kondenzatoru jiz stejnosmerny proud neprochazi, ale stridavy jo
 
 tau = R krat C = casova konstanta = za priblizne 5 casovich konstant se kondenzator nabije na svoji max kapacitu
+
+ve stridavem obvodu po nabiti klesne za 5 tau el. proud na nulu a napeti na max hodnotu
+
+KAPACITNI REAKTANCE
+X index C = 1 / 2 krat pi krat f krat C
+f = frekvence / cim vetsi frekvence tim mensi reaktance / HZ
+C = kapacita / farady
+odporova velicina, odpor ktery klade stridavemu proudu, takze proto to ma jednotku OHM
+
+ma maximalni provozni napeti (V), aby se neprorazil a nestal se vodivim
