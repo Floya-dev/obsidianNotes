@@ -10,5 +10,5 @@ ascii - 2 na 8
 
 komprimace - komprese
 - usetri misto a sitovi prenos
-- ztratova (= napr. u 4K filmu, ale ja mam HD monitor, tak z dat vymazu 4K sekci a necham pouze HD cast, mensi zatez na system a HW) a bezztratova (= zachovava data, omezi nektere dlouhe slova / BOOK -- B2OK)
+- ztratova (= jednosmerna, napr. u 4K filmu, ale ja mam HD monitor, tak z dat vymazu 4K sekci a necham pouze HD cast, mensi zatez na system a HW) a bezztratova (= obousmerna, zachovava data, omezi nektere dlouhe slova / BOOK -- B2OK)
 
