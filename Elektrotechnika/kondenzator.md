@@ -28,3 +28,8 @@ C = kapacita / farady
 odporova velicina, odpor ktery klade stridavemu proudu, takze proto to ma jednotku OHM
 
 ma maximalni provozni napeti (V), aby se neprorazil a nestal se vodivim
+
+
+
+
+
