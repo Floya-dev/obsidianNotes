@@ -28,3 +28,27 @@ realne situace - dostanu switch, nastavim hesla, vzdaleny pristup, odnesu do ser
 
 
 ![[MicrosoftTeams-image.png]]
+
+ssh enable
+switch
+- hostname
+- interface vlan
+- no shutdown
+- show ip interface brief
+- zaheslovat secret
+- udelat uzivatele - username cisco secret cisco
+- pro ssh potrebujes domenu a certifikat (hostname a domena)
+- ip domain-name 
+- line console0
+- login local
+- exit
+- line vty 0 15
+- login local
+- exit
+- ted to bude vyzadovat user a heslo kdyz resetnes tty
+- configure terminal
+- crypto key generate rsa
+- aspon 1024 bits
+- crypto key mypubkey rsa
+- line vty 0 15
+- transport input ssh
