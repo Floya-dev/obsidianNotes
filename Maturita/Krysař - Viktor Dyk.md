@@ -13,7 +13,7 @@
 - "Usmívá se a pláče až příštího dne"
 - Drozd v kleci - přítel Seppa, zpívá a tím uklidňuje Seppa, ?a potom ho ostatní mají rádi? / moc jsem nepochopil
 **Kapitola IV.**
-- Postave Milence Kristián, milenec Agnes
+- Postava Kristián, milenec Agnes
 - Měl všechno co může míti občan v Hammeln: počestné rodiče a zachovalé jméno a úctu k radnici a kostelu.
 - Kolísá mezi úzkostí a nadějí, staral se o Strýce
 - Strýc Ondřej: pohoršující kupec
