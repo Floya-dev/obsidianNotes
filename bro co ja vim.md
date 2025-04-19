@@ -1,1 +1,1 @@
-mam rad kocicky
+mam rad kocicky, a kratkovlasy brejlaty holky :3
