@@ -1,0 +1,10 @@
+buscar = hledat
+- Yo busco mis llaves = hledas klice
+pasar = projit
+- Pasamos por el parque = prosli jsme parkem
+traducir = prekladat
+- Traduzco el texto al checo = prekladam text do cestiny
+colgado = zaveseny
+- El cuadro está colgado en la pared = obraz je zaveseny na zdi
+dar = davat
+- Le doy un regalo a mi hermana = davam sestre darek
