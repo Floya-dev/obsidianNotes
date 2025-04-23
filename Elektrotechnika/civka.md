@@ -7,4 +7,5 @@ turbina toci magnetem, kolem magnetu se vytvari elektricke pole
 
 ![[Pasted image 20250423121419.png]]
 ![[Pasted image 20250423130009.png]]
-![[Pasted image 20250423131156.png]]
+![[Pasted image 20250423131624.png]]
+
