@@ -29,7 +29,8 @@ odporova velicina, odpor ktery klade stridavemu proudu, takze proto to ma jednot
 
 ma maximalni provozni napeti (V), aby se neprorazil a nestal se vodivim
 
+![[Pasted image 20250423113946.png]]
 
-
-
-
+![[Pasted image 20250423113959.png]]
+![[Pasted image 20250423114014.png]]
+![[Pasted image 20250423114036.png]]
