@@ -1,5 +1,5 @@
-- snizeni/regulace el. proudu
-- snizeni/regulace el. napeti
+- snizeni/regulace el. proudu - neprima umernost
+- snizeni/regulace el. napeti - neprima umernost
 - el energie na teplo
 
 cim veci odpor tim mensi proud
