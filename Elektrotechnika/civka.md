@@ -8,4 +8,5 @@ turbina toci magnetem, kolem magnetu se vytvari elektricke pole
 ![[Pasted image 20250423121419.png]]
 ![[Pasted image 20250423130009.png]]
 ![[Pasted image 20250423131624.png]]
-
+inpedance (to nad tim ta pyth veta)
+nesmimeprekrocit maximalni proud, ktery je uveden na civce

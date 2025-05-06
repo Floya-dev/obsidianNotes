@@ -1,4 +1,6 @@
 elektricky stroj netocivy
+zvysuje neo snizuje napeti
+sklada se ze dvou civek (zpravidla, ale muze byt i jedna)
 meni napeti v primem pomeru zavitu (cim vice zavitu tim vetsi napeti)
 vykon P prenasi
 transformuje proud v neprimem pomeru (cim vice zavitu tim mensi proud)
