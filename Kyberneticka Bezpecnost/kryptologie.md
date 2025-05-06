@@ -6,3 +6,6 @@ kryptoanalyza = opak kryptografie = rozsifrovat zpravu
 hash neni sifra, protoze nejde desifrovat
 - da se pouze reverse engineerovat, to vsak neni desifrace
 
+synchroni = jeden klic
+asynchroni = dva klice
+
