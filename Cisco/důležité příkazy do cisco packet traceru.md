@@ -29,6 +29,8 @@ realne situace - dostanu switch, nastavim hesla, vzdaleny pristup, odnesu do ser
 ==write== // zapise running-config do do startup-configu // v priviliged exec mode
 ==show startup-config== // ukaze startup-config // v priviliged exec mode
 
+==copy startup-config tftp:== // zkopiruje startup-config na server // v priviliged exec mode
+
 ![[MicrosoftTeams-image.png]]
 
 ssh enable
