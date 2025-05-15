@@ -26,6 +26,8 @@ realne situace - dostanu switch, nastavim hesla, vzdaleny pristup, odnesu do ser
 ==line vty *num 0-16*== // config virtual terminal // global config
 ==login local== // zapne vyzadovani hesla // v port configu
 
+==write== // zapise running-config do do startup-configu // v priviliged exec mode
+==show startup-config== // ukaze startup-config // v priviliged exec mode
 
 ![[MicrosoftTeams-image.png]]
 
@@ -49,6 +51,6 @@ switch
 - configure terminal
 - crypto key generate rsa
 - aspon 1024 bits
-- crypto key mypubkey rsa
+- show crypto key mypubkey rsa
 - line vty 0 15
 - transport input ssh
