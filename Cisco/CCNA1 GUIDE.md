@@ -1,3 +1,4 @@
+- loopback bude nejmensi subnet
 **ROUTER**
 `enable`
 `configure terminal`
@@ -7,6 +8,10 @@
 	`no shutdown`
 	`exit`
 `interface [input port 2]`
+	`ip address [ip of router on that subnet] [mask]`
+	`no shutdown`
+	`exit`
+`interface loopback`
 	`ip address [ip of router on that subnet] [mask]`
 	`no shutdown`
 	`exit`
