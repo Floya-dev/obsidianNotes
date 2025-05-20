@@ -26,6 +26,7 @@
 `ip dhcp exclude-address [ip of server]`
 `ip dhcp exclude-address [ip of router]`
 `ip dhcp exclude-address [start of ip range] [end of ip range]`
+`exit`
 `write`
 `copy startup-config tftp:`
 
