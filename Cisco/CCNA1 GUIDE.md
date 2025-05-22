@@ -75,3 +75,7 @@
 ``copy startup-config tftp:`
 	`[input ip of server]`
 	`[input name]`
+
+
+**changelog**
+22/05 - added dhcp exclude on second subnet
