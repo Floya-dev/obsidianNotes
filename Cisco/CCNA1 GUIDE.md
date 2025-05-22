@@ -14,7 +14,7 @@
 	`ip address [ip of router on that subnet] [mask]`
 	`no shutdown`
 	`exit`
-`interface loopback`
+`interface loopback 1`
 	`ip address [ip of router on that subnet] [mask]`
 	`no shutdown`
 	`exit`
