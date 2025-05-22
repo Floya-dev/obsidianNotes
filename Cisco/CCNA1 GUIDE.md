@@ -58,6 +58,7 @@
 	`ip address [ip for switch on subnet] [mask of subnet]`
 	`no shutdown`
 	`exit`
+`ip default-gateway [input router ip on that subnet]`
 `username [input] secret [password]`
 `enable secret [password]`
 `ip domain-name [input domain, for example: cisco.com]`
@@ -78,8 +79,12 @@
 	`[input ip of server]`
 	`[input name]`
 
+**common problems and their troubleshooting**
+bro proste si zkontroluj ze si spravne zadal ipiny a masky
+
 
 **changelog**
 22/05.00 - added dhcp exclude on second subnet
 22/05.01 - changed loopback number to 0 (cuz yuh)
 22/05.02 - fixed secret on router ssh
+22/05.10 - fixed switch config - was missing default-router
