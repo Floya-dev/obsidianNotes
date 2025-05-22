@@ -2,6 +2,7 @@
 	- pokud ti 2 vysli se stejnou velikosti, jeden udelej vetsi, jinak ti to fungovat nebude
 - loopback bude nejmensi subnet (cili posledni)
 - pozorne sleduje zadani
+- do zapisu kazdeho subnetu napis: Gateway (router), Broadcast (nejvyssi adresa), Id (nula) a rozsah uzivatelsky ip adres (pouzitelnych)
 **ROUTER**
 `enable`
 `configure terminal`
