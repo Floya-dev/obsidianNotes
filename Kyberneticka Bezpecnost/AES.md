@@ -11,6 +11,8 @@ q = 5
 a = 4
 b = 3
 
+(g^a)^b mod p = (g^b)^a mod p
+
 18
 18
 it fucking works
