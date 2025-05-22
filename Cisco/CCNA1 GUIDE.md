@@ -26,9 +26,22 @@
 `ip dhcp exclude-address [ip of server]`
 `ip dhcp exclude-address [ip of router]`
 `ip dhcp exclude-address [start of ip range] [end of ip range]`
+`username [input] secret [input]`
+`enable secret [input]`
+`ip domain-name [input domain, for example: cisco.com]`
+`line console 0`
+	`login local`
+	`exit`
+`crypto key generate rsa`
+	`1024`
+`line vty 0 15`
+	`transport input ssh`
+	`exit`
 `exit`
 `write`
 `copy startup-config tftp:`
+	`[input ip of server]`
+	`[input name]`
 
 **SWITCH**
 `enable`
@@ -53,3 +66,6 @@
 	`transport input ssh`
 	`exit`
 `write`
+``copy startup-config tftp:`
+	`[input ip of server]`
+	`[input name]`
