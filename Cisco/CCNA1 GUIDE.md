@@ -15,7 +15,7 @@
 	`ip address [ip of router on that subnet] [mask]`
 	`no shutdown`
 	`exit`
-`interface loopback 1`
+`interface loopback 0`
 	`ip address [ip of router on that subnet] [mask]`
 	`no shutdown`
 	`exit`
@@ -41,6 +41,7 @@
 `crypto key generate rsa`
 	`1024`
 `line vty 0 15`
+	`login local`
 	`transport input ssh`
 	`exit`
 `exit`
@@ -71,6 +72,7 @@
 `line vty 0 15`
 	`transport input ssh`
 	`exit`
+`exit`
 `write`
 ``copy startup-config tftp:`
 	`[input ip of server]`
@@ -78,4 +80,6 @@
 
 
 **changelog**
-22/05 - added dhcp exclude on second subnet
+22/05.00 - added dhcp exclude on second subnet
+22/05.01 - changed loopback number to 0 (cuz yuh)
+22/05.02 - fixed secret on router ssh
