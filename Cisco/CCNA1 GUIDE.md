@@ -1,4 +1,7 @@
-- loopback bude nejmensi subnet
+- subnety musi jit velikostne vzestupne
+	- pokud ti 2 vysli se stejnou velikosti, jeden udelej vetsi, jinak ti to fungovat nebude
+- loopback bude nejmensi subnet (cili posledni)
+- pozorne sleduje zadani
 **ROUTER**
 `enable`
 `configure terminal`
