@@ -30,6 +30,8 @@
 `ip dhcp exclude-address [ip of server]`
 `ip dhcp exclude-address [ip of router]`
 `ip dhcp exclude-address [start of ip range] [end of ip range]`
+`ip dhcp exclude-address [ip of router on 2nd subnet]`
+`ip dhcp exclude-address [start of ip range on 2nd subnet] [end of ip range]`
 `username [input] secret [input]`
 `enable secret [input]`
 `ip domain-name [input domain, for example: cisco.com]`
