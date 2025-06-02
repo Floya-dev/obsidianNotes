@@ -1,4 +1,4 @@
-- subnety musi jit velikostne vzestupne
+- subnety musi jit velikostne sestupne
 	- pokud ti 2 vysli se stejnou velikosti, jeden udelej vetsi, jinak ti to fungovat nebude
 - loopback bude nejmensi subnet (cili posledni)
 - pozorne sleduje zadani
