@@ -1,5 +1,6 @@
 ser x estar
 ser = permanent - neco s cim sem se narodil / profese / cas, datum a udalosti / neco vlastnit
+soy, eres, es, somos, sois, son
 - Soy alto. / jsem vysoky
 - Soy estudiante. / jsem student
 - Hoy es lunes. / je pondeli
