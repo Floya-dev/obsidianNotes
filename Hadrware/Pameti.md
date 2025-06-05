@@ -1,4 +1,4 @@
-rozdil vnitrni (cache, ram) vs vnejsi (disky)
+ rozdil vnitrni (cache, ram) vs vnejsi (disky)
 
 hierarchie
 1. registry
