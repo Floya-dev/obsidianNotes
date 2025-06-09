@@ -115,3 +115,4 @@ bro proste si zkontroluj ze si spravne zadal ipiny a masky
 22/05.02 - fixed secret on router ssh
 22/05.10 - fixed switch config - was missing default-router
 9/06.00 - pridano pocitani
+9/06.01 - pridano nastaveni dns serveru na dhcp
