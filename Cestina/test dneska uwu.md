@@ -22,6 +22,7 @@ Moliery
 - franzousky damatik, komedie (uzke drama)
 - Dila - Tartufe (prekladatel SVATOUSEK), proti nabozenskemu fanatizmu, provokace cirkve, obvinen z atheismu
 - Dilo - Lakomec
+
 Johnan Wolfgang von Goeth
 - nemecky basnik, dramatik
 - Dila - Utrpeni mladeho Werthera, Fuast
