@@ -11,9 +11,11 @@ Voltaire - 21.11.1694
 - Dale skladal literarni dila s kritizujicim podtextem a potaji je vydaval, nehlasil se k vlastnistvi protoze by ho zavreli
 - Dila - Filozoficke listy, Filosoficky slovnik (1764)
 - Smrt 1778
+
 Jonathan Swift
 - anglicky spisovatel, satirik, basnik, knez
 - Gulliverovi cesty = dobrodruzny roman, puvodni lodni lekar Gulliver se stane kapitanem a cestuje po svete, psano jako cestopis, uvadi data a mapy. Objevuje zvlastni ostrovy (napriklad liliputi, moudri kone, letajici ostrovy). Zde pobyva a dokumentuje zivot. Pribehy poukazuji na problemy v tehdejsi britanii, nekteri lide knihu predcitali detem, protoze se tam stavali vtipne prihody. Ale autor to zamyslel spise pro dospele.
+
 Moliery
 - vlastnim jmenem Jean Babtiste Poquelin
 - predstavitel Klasicismu
