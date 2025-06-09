@@ -101,7 +101,7 @@ LOOPBACK
 	`exit`
 `exit`
 `write`
-``copy startup-config tftp:`
+`copy startup-config tftp:`
 	`[input ip of server]`
 	`[input name]`
 
