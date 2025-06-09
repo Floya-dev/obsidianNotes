@@ -3,6 +3,30 @@
 - loopback bude nejmensi subnet (cili posledni)
 - pozorne sleduje zadani
 - do zapisu kazdeho subnetu napis: Gateway (router), Broadcast (nejvyssi adresa), Id (nula) a rozsah uzivatelsky ip adres (pouzitelnych)
+
+**POCTY**
+SUB1
+- K poctu zadanych zarizeni pricti 2 (ID, Broadcast) a pocet sitovych zarizeni na siti (routery, switchy)
+- Zaokrouhli cislo na cislo ktere je mocninou 2
+	- 1 = 2^0
+	- 2 = 2^1
+	- 4 = 2^2
+	- 8 = 2^3
+	- 16 = 2^4
+	- 32 = 2^5
+	- 64 = 2^6
+	- 128 = 2^7
+	- 256 = 2^8
+- Pouzij cislo kterym mocnis (to jest: 0,1,2,3,4,5,6,7,8) to je pocet nul v binarnim zapisu masky
+	- napriklad pro cislo 5 = 11111111.11111111.11111111.11100000
+	- 8 jednicek = 255
+	- Jendicky preved na dvojky a umocni umistenim v poradi
+		- To jest (posledni okta) 2^7 + 2^6 + 2^5 = 224
+		- Finalni maska bude 255.255.255.224 (pro pocet 32 zarizeni)
+Stejne pokracuj u SUB2
+LOOPBACK
+- Spocitej si pocet routeru na siti a pokracuj stejne jako u ostanich subnetu
+
 **ROUTER**
 `enable`
 `configure terminal`
