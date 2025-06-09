@@ -46,10 +46,12 @@ LOOPBACK
 `ip dhcp pool [input name of subnet 1]`
 	`network [id of desired subnet] [mask of desired subnet]`
 	`default-router [ip of router on desired subnet]`
+	`dns-server [ip of dns server]`
 	`exit`
 `ip dhcp pool [input name of subnet 2]`
 	`network [id of desired subnet] [mask of desired subnet]`
 	`default-router [ip of router on desired subnet]`
+	`dns-server [ip of dns server]`
 	`exit`
 `ip dhcp exclude-address [ip of server]`
 `ip dhcp exclude-address [ip of router]`
