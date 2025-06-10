@@ -1,11 +1,13 @@
-- subnety musi jit velikostne sestupne
-	- pokud ti 2 vysli se stejnou velikosti, jeden udelej vetsi, jinak ti to fungovat nebude
-- loopback bude nejmensi subnet (cili posledni)
-- pozorne sleduje zadani
-- do zapisu kazdeho subnetu napis: Gateway (router), Broadcast (nejvyssi adresa), Id (nula) a rozsah uzivatelsky ip adres (pouzitelnych)
+# DOPORUČUJI SOUBOR STÁHNOUT A OTEVŘÍT V OBSIDIANU NEBO JINÉM PROGRAMU PRO .MD FILY!!
 
-**POCTY**
-SUB1
+- subnety musí jítt velikostí sestupně
+	- pokud ti 2 vyšly se stejnou velikostí, jeden udělej větši
+- loopback bude nejmenší subnet (čili poslední)
+- pozorně sleduj zadaní
+- do zápisu každého subnetu napiš: Gateway (router), Broadcast (nejvysšší adresa), Id (nula) a rozsah uživatelských ip adres (použitelných)
+
+# POČTY
+**SUB1/2**
 - K poctu zadanych zarizeni pricti 2 (ID, Broadcast) a pocet sitovych zarizeni na siti (routery, switchy)
 - Zaokrouhli cislo na cislo ktere je mocninou 2
 	- 1 = 2^0
@@ -24,9 +26,12 @@ SUB1
 		- To jest (posledni okta) 2^7 + 2^6 + 2^5 = 224
 		- Finalni maska bude 255.255.255.224 (pro pocet 32 zarizeni)
 Stejne pokracuj u SUB2
-LOOPBACK
+**LOOPBACK**
 - Spocitej si pocet routeru na siti a pokracuj stejne jako u ostanich subnetu
 
+- - -
+
+# KONFIGURACE
 **ROUTER**
 `enable`
 `configure terminal`
@@ -105,9 +110,13 @@ LOOPBACK
 	`[input ip of server]`
 	`[input name]`
 
-**common problems and their troubleshooting**
-bro proste si zkontroluj ze si spravne zadal ipiny a masky
+- - -
 
+# common problems and their troubleshooting
+bro proste si zkontroluj ze si spravne zadal ipiny a masky
+obcas pomaha vypnout a zapnout dhcp na pocitacich, aby si natahali nove ip adresy, router je totiz uplne blby a nedokaze poslat packet ktery rika "hej, novy config tady"
+
+- - -
 
 **changelog**
 22/05.00 - added dhcp exclude on second subnet
@@ -116,3 +125,4 @@ bro proste si zkontroluj ze si spravne zadal ipiny a masky
 22/05.10 - fixed switch config - was missing default-router
 9/06.00 - pridano pocitani
 9/06.01 - added dns server config for dhcp
+10/06.00 - beautified ✨
