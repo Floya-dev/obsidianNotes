@@ -1,5 +1,3 @@
-# DOPORUČUJI SOUBOR STÁHNOUT A OTEVŘÍT V OBSIDIANU NEBO JINÉM PROGRAMU PRO .MD FILY!!
-
 - subnety musí jítt velikostí sestupně
 	- pokud ti 2 vyšly se stejnou velikostí, jeden udělej větši
 - loopback bude nejmenší subnet (čili poslední)
