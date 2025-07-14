@@ -1,0 +1,1 @@
+ziskavame energii
