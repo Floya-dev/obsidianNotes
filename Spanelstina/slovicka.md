@@ -263,3 +263,10 @@ saber = znat, vedet (jak neco delat)
 - No se = ja nevim
 - ?Sabes la respuesta? = vis odpoved?
 - ?Sabes cocinar? = vis jak varit?
+
+arena = pisek
+
+la sopa = polevka
+guisantes = hrasek
+- la sopa de guisantes = hraskova polivka
+- la sopa de tomates = rajcatova polivka
