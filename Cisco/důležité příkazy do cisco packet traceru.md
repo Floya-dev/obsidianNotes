@@ -31,6 +31,7 @@ realne situace - dostanu switch, nastavim hesla, vzdaleny pristup, odnesu do ser
 
 ==copy startup-config tftp:== // zkopiruje startup-config na server // v priviliged exec mode
 
+==show vlan brief== // ukaze vlany
 ![[MicrosoftTeams-image.png]]
 
 ssh enable
