@@ -61,3 +61,12 @@ Lo unico que desea es ser feliz. / jedine co si preji je byt stastny
 
 Vivo en el norte de la ciudad. / ziju na severu mesta
 Me encanta mi lugar. / miluju sve misto
+
+Estaba en el cine.
+Me gusta la esquina.
+Busco en Internet.
+Escucho la cancion.
+Me gusta natacion.
+Alguien es muy divertido.
+No me gusta cantar.
+Tues en la broma.

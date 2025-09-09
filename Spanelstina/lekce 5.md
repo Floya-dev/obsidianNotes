@@ -1,4 +1,4 @@
-2**Querer** - to like, to want
+**Querer** - to like, to want
 Yo quiero
 Tu quieres
 El quiere
