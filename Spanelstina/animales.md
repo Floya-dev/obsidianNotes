@@ -3,32 +3,32 @@ gato - kocka
 vaca - krava
 caballo - kun
 oveja - ovce
-cabra - koza
-cerdo - prase
+la cabra - koza
+el cerdo - prase
 conejo - rabbit
 gallo - kohout
 pato - kachna
-leon - lev
+el leon - lev
 tigre - tigr
 elefante - slon
-jirafa - zirafa
+la jirafa - zirafa
 cebra - zebra
-lobo - vlk
+el lobo - vlk
 aguila - orel
-mono - opice
+el mono - opice
 hipopotamo - hroch
 rinoceronte - nosorozec
 pez - ryba
 delfin - delfin
-tiburon - zralok
+el tiburon - zralok
 pulpo - chobotnice
 pinguino - tucnak
 ballena - verlyba
 estrella de mar - hvezdice
 medusa - meduza
-foca - tulen
+la foca - tulen
 cangrejo - krab
-camello - velbloud
+el camello - velbloud
 serpiente - had
 escorpion - skorpion
 llama - lama
@@ -47,6 +47,19 @@ el raton - krysa/mys
 el conejo - kralik
 el zorro - lyska
 el hamster - krecek
+la arna - pavouk
+la rana - zaba
+el mapache - racoon
+el murcielago - netopyr
+el cocodrilo - krokodyl
+el caracol - hlemyzd
+el canguro - kangaroo
+el koala - koala
+el pinguino - tucnak
+la ardila - veverka
+el gorila - gorila
+el pato - kachna
+el topo - krtek
 
 - Domestic
     
@@ -94,3 +107,16 @@ el hamster - krecek
     - serpiente - had
     - escorpion - skorpion
     - bufalo - bizon
+
+Me gusta zorro.
+Porque son rápidos y traviesos.
+Zorro vive en los bosques.
+- El perro es grande.
+    
+- La vaca es blanca.
+    
+- El gato es pequeño.
+    
+- El pájaro es colorido.
+    
+- El pez es rápido.
