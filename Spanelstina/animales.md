@@ -38,6 +38,13 @@ gacela - gazela
 dromedario - dromedar (vlebloud s jednim hrbem)
 bufalo - bizon
 canguro - klokan
+el oso - medved
+la mariposa - motyl
+el lobo - vlk
+la tortuga - zelva
+la abeja - vcela
+el raton - krysa/mys
+
 
 - Domestic
     
