@@ -44,7 +44,9 @@ el lobo - vlk
 la tortuga - zelva
 la abeja - vcela
 el raton - krysa/mys
-
+el conejo - kralik
+el zorro - lyska
+el hamster - krecek
 
 - Domestic
     
