@@ -1,4 +1,4 @@
-vlan 1 neni nejbezpecnejsi, protoze je prirazena ke kazdemu portu
+1vlan 1 neni nejbezpecnejsi, protoze je prirazena ke kazdemu portu
 segmentace site
 
 **virtualni sit**
